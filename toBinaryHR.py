@@ -13,3 +13,6 @@ def bin(n):
 if __name__ == '__main__':
     n = int(input())
     bin(n)
+
+
+#ahora si developer
