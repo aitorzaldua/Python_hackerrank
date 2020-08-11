@@ -1,3 +1,6 @@
+
+#cabecera
+
 import math
 import os
 import random
@@ -26,6 +29,7 @@ def compareTriplets (a, b):
     return rsult
 
 
+#footer
 
 if __name__ == '__main__':
     a = [17, 28, 30]
