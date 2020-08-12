@@ -1,7 +1,3 @@
-#cambios en developer
-
-#cambios en master
-
 
 def bin(n):
     count = 0
@@ -16,4 +12,3 @@ if __name__ == '__main__':
     bin(n)
 
 
-#ahora si developer
