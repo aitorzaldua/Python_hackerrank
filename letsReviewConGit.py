@@ -19,6 +19,8 @@ class Separator:
 
 #zona footer
 
+#agrego comentario footer.
+
     def printString(self):
 
         for i in self.classString:
