@@ -1,3 +1,5 @@
+#zona header
+
 import math
 import os
 import random
@@ -15,7 +17,9 @@ class Separator:
         self.joinDigitsEven = ""
         self.joinDigitsOdd = ""
 
+#zona footer
 
+#agrego comentario footer.
 
     def printString(self):
 
